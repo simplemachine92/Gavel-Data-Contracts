@@ -3,10 +3,4 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 
-[rpc_endpoints]
-local = "http://127.0.0.1:8545"
-mainnet = "https://eth-mainnet.g.alchemy.com/v2/hKdmmSJ0FG9WisljGV0vT79SIQZxyQPH"
-polygon = "https://polygon-mainnet.infura.io/v3/dc12cdcb63614e568268feb36f25b57a"
-snow = "https://avalanche-mainnet.infura.io/v3/dc12cdcb63614e568268feb36f25b57a"
-
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
